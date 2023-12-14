@@ -1,0 +1,7 @@
+void main(){
+
+  for(var i=1;i<10;i++)
+    i=i*i;
+  print(i);
+}
+//this example in program dart bad
